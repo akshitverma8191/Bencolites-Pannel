@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281888148793",
+    "project_id": "bencolites-pannel",
+    "storage_bucket": "bencolites-pannel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281888148793:android:088f6469d29f3f2b422ce8",
+        "android_client_info": {
+          "package_name": "com.example.Bencolites_Pannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281888148793-5qee6fmbdg9pn5tjrdvm893n8umum4j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Bencolites_Pannel",
+            "certificate_hash": "726c6bf0c27f5aea8c9fa09343d60e4e712abd72"
+          }
+        },
+        {
+          "client_id": "281888148793-epsq9lqhu4kkotptpbtoq3tf1omor1jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5auiQUc7uKI42CSxSMV2nwwAn4g57imE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281888148793-epsq9lqhu4kkotptpbtoq3tf1omor1jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
